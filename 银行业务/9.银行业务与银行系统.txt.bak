@@ -1,0 +1,20 @@
+9.银行业务与银行系统
+金融集成应用阶段（2004-至今）客户为中心。参数化、模块化
+
+业务处理系统--核心业务系统 ：
+1.批发业务：单笔金额大、交易量小 、流程复杂、多渠道、
+2.零售业务：单笔金额小、交易量大 、多渠道、后台
+第三方系统 SWIFT MBFE 银联
+swift 国际金融业务 环球同业银行金融电讯协会 比利时= 布鲁塞尔1973年五月
+ Society for Worldwide Interbank Financial Telecommunication 
+	swift报文 信用证的格式
+MBFE 商业银行前置系统
+ 行内业务系统--- 商业银行前置系统--中国国家现代化支付系统CNAPS China National Advanced Payment System
+ 行内业务系统--MBFE（商业银行内）--CNAPS-国家处理中心NPC（城市处理中心CCPC-）
+
+国际收支申报系统
+ra前置机
+
+DS决策支持
+OLAP 联机分析处理
+SNA-CICS IIOP-tuxedo
