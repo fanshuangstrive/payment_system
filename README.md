@@ -92,16 +92,41 @@
 
 ![images/会计核算基本框架.fanshuang.19.jpg](images/会计核算基本框架.fanshuang.19.jpg)
 
-### 会计对账
+
+
+### * 经济业务
+
+入金
+
+出金
+
+平台内：红包、优惠券、资金调拨....
+
+### * 设置会计科目
+
+### * 会计凭证
+
+### * 会计记账
+
+
+
+### * 会计对账
 
 ![images/会计记账对账.fanshuang.19.jpg](images/会计记账对账.fanshuang.19.jpg)
 
 
 
-### 会计账户
+### 会计报表
+
+
+
+### * 会计账户
 
 ![images/会计账户格式和结构.fanshuang.19.jpg](images/会计账户格式和结构.fanshuang.19.jpg)
 
-### 会计账务
+### * 会计账务
 
 ![images/会计账务.fanshuang.19.jpg](images/会计账务.fanshuang.19.jpg)
+
+
+
