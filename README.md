@@ -79,4 +79,10 @@
 
 
 
+### 会计账户
+
 ![images/会计账户格式和结构.fanshuang.19.jpg](images/会计账户格式和结构.fanshuang.19.jpg)
+
+### 会计账务
+
+![images/会计账务.fanshuang.19.jpg](images/会计账务.fanshuang.19.jpg)
