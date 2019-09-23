@@ -58,6 +58,10 @@
 
 客户：个人客户、企业
 
+![images/三户模型-fanshuang.19.jpg](images/三户模型-fanshuang.19.jpg)
+
+
+
 ###  支付体系
 
 ![images/支付体系-fanshuang.19.jpg](images/支付体系-fanshuang.19.jpg)
