@@ -70,10 +70,13 @@
 
 
 
+## 会计
 
-### 会计
+### 会计核算基本框架
 
-会计借贷记账
+![images/会计核算基本框架.fanshuang.19.jpg](images/会计核算基本框架.fanshuang.19.jpg)
+
+### 会计对账
 
 ![images/会计记账对账.fanshuang.19.jpg](images/会计记账对账.fanshuang.19.jpg)
 
