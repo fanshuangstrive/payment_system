@@ -5,6 +5,14 @@
 
 ## 货币
 
+* 国际货币账户体系
+
+  
+  
+* 数字货币账户体系
+
+  
+  
 * 货币账户体系
 
   ![货币账户体系-fanshuang.19.jpg](images/货币账户体系-fanshuang.19.jpg)
@@ -19,12 +27,28 @@
 
 ## 清结算组织
 中国银联-银行卡支付清算系统 、收单
+
 网联清算
+
+
 
 ## 银行系统
 银行中间业务  https://fanshuangstrive.github.io/
 
+
+
+### 支付体系
+
+![images/支付体系-fanshuang.19.jpg](images/支付体系-fanshuang.19.jpg)
+
+## 互联网金融
+
+网络小额贷款
+
+高盛
+
 ## 第三方支付
+
 支付机构(人行许可)
 艾瑞咨询-第三方支付 参考 http://www.iresearch.com.cn/
 非金融机构支付业务设施技术要求-20141124.pdf
@@ -35,7 +59,7 @@
 
 
 
-## 聚合支付
+## 第四方支付(聚合支付)
 电商支付系统： 参考 http://blog.lixf.cn/ 凤凰牌老熊
 移动支付网
 
@@ -43,12 +67,21 @@
 
 ![images/聚合支付平台架构.fanshuang.19.jpg](images/聚合支付平台架构.fanshuang.19.jpg)
 
+### 互联网支付-资金处理
+
+1.交易核心
+
+2.账务清结算
+
+3.对账核心
+
+
+
 ![images/聚合支付.资金流.fanshuang.19.jpg](images/聚合支付.资金流.fanshuang.19.jpg)
 
-## 互联网金融
 
-网络小额贷款
-高盛
+
+
 
 ## 三户模型
 
@@ -62,9 +95,7 @@
 
 
 
-###  支付体系
 
-![images/支付体系-fanshuang.19.jpg](images/支付体系-fanshuang.19.jpg)
 
 
 
@@ -120,15 +151,41 @@
 
 
 
-### * 会计账户
+###会计科目与账户
+
+**会计账户记载账户主体经济活动的信息流**。
+总分类科目就是我们说的总账科目或者叫一级科目 ，明细分类科目，也就是明细科目 
+只有叶子科目下才能开立账户，非叶子科目下不可以开立账户 
+
+资产类 负债类、所有者权益类、共同类账户
+
+应收账款Accounts Receivable
+
+预收账款 Advance From 
+
+![images/会计科目与账户.fanshuang.19.jpg](images/会计科目与账户.fanshuang.19.jpg)
+
+
+
+
+
+### 会计账户
 
 ![images/会计账户格式和结构.fanshuang.19.jpg](images/会计账户格式和结构.fanshuang.19.jpg)
 
-### * 会计账务
+### 会计账务
 
 ![images/会计账务.fanshuang.19.jpg](images/会计账务.fanshuang.19.jpg)
 
+### 借贷记账法
 
+记账方法：借贷记账法，复式记账的一种
+
+参考 复式记账法-记录经济活动的来龙去脉 https://fanshuangstrive.github.io/
+
+
+
+![images/借贷记账9大业务.fanshuang.19.jpg](images/借贷记账9大业务.fanshuang.19.jpg)
 
 
 
