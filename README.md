@@ -157,11 +157,11 @@
 总分类科目就是我们说的总账科目或者叫一级科目 ，明细分类科目，也就是明细科目 
 只有叶子科目下才能开立账户，非叶子科目下不可以开立账户 
 
-资产类 负债类、所有者权益类、共同类账户
-
 应收账款Accounts Receivable
 
 预收账款 Advance From 
+
+共同类账户
 
 ![images/会计科目与账户.fanshuang.19.jpg](images/会计科目与账户.fanshuang.19.jpg)
 
