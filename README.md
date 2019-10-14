@@ -126,12 +126,13 @@ XX商业银行备付金
 
 
 ## 第四方支付(聚合支付)
-电商支付系统： 参考 http://blog.lixf.cn/ 凤凰牌老熊
-移动支付网
+电商支付系统： 
 
+参考 http://blog.lixf.cn/ 凤凰牌老熊
 
+企业支付平台总体系统架构
 
-![images/聚合支付平台架构.fanshuang.19.jpg](images/聚合支付平台架构.fanshuang.19.jpg)
+![images/聚合支付平台系统架构.fanshuang.19.jpg](images/聚合支付平台系统架构.fanshuang.19.jpg)
 
 ### 互联网支付-资金处理
 
